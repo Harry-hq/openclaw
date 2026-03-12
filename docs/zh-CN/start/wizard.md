@@ -24,7 +24,7 @@ x-i18n:
 openclaw onboard
 ```
 
-体验和 CpenClaw 聊天：打开控制界面（无需设置）。运行 `openclaw dashboard` 并在浏览器中使用。文档：[控制面板](/web/dashboard)。
+体验和 OpenClaw 聊天：打开控制界面（无需设置）。运行 `openclaw dashboard` 并在浏览器中使用。文档：[控制面板](/web/dashboard)。
 
 后续可以再重新设置：
 

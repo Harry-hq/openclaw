@@ -181,7 +181,7 @@ OpenClaw 默认为良好的聊天机器人设置，但你通常需要调整：
 }
 ```
 
-## 会话和与记忆的配置
+## 会话与记忆的配置
 
 - 会话文件：`~/.openclaw/agents/<agentId>/sessions/{{SessionId}}.jsonl`
 - 会话元数据（token 使用量、最后路由等）：`~/.openclaw/agents/<agentId>/sessions/sessions.json`（旧版：`~/.openclaw/sessions/sessions.json`）
@@ -222,7 +222,7 @@ OpenClaw 默认为良好的聊天机器人设置，但你通常需要调整：
 MEDIA:https://example.com/screenshot.png
 ```
 
-OpenClaw 会提取这些东西并将它们作为输入的一部分与文本一起发送。
+OpenClaw 会提取这些东西并将它们作为媒体与文本一起发送。
 
 ## 实例探活与日志记录
 
